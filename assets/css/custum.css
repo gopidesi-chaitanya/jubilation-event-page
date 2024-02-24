@@ -16,6 +16,12 @@
 	bottom: 100px;
 
 }
+.time_left{
+    color: white;
+    visibility: hidden;
+}
+
+
 .acm{
     height: 170px;
     width: 150px;
@@ -192,6 +198,13 @@ left: 3px;
     display: flex;
     flex-direction: column;
     justify-content:space-evenly;
+}
+.time_left{
+    color: white;
+     visibility: visible;
+	position: relative;
+    top:40px;
+	
 }
 
 .event_img{
