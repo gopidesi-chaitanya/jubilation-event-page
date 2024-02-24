@@ -10,6 +10,12 @@
 .assciotion-title{
     font-size: 60px;
 }
+.reg_alert{
+    color: red;
+    margin-top: 40px;
+}
+
+
 
 .asso_sec{
 	position: relative;
