@@ -90,6 +90,17 @@ margin-top: 100px;
 
 }
 
+.footer_icon i{
+  font-size: 40px;
+
+
+}
+.Copyright{
+    position: relative;
+    top:40px;
+    left:300px;
+}
+
 .span_col{
 	color: #ee8425;
 }
@@ -276,6 +287,21 @@ left: 3px;
 .event_pos{
     aspect-ratio: 2/1.2;
    }
+
+   .Copyright{
+    position: relative;
+    top:40px;
+    left:16px;
+}
+
+   .footer_icon i{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 40px;
+  
+  
+  }
+  
 
 
   }
